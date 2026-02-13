@@ -3,7 +3,7 @@
 A Pomodoro timer that feels like a Tamagotchi, but it's Pokemon based.
 Pick a starter each session, focus to earn XP/coins, care for it on breaks, and battle wild Pokémon for rewards.
 
-## Features (MVP+)
+## Features
 - Splash → Starter Select → Focus → Summary → Break Hub
 - Long break every 4 completed pomodoros (+bonus coins)
 - Feed/items system + inventory
