@@ -1,6 +1,6 @@
 # Pokemonodoro (React + Vite + TS)
 
-A Pomodoro timer that feels like a Gen-1-starter Tamagotchi.
+A Pomodoro timer that feels like a Tamagotchi, but it's Pokemon based.
 Pick a starter each session, focus to earn XP/coins, care for it on breaks, and battle wild Pokémon for rewards.
 
 ## Features (MVP+)
@@ -9,9 +9,8 @@ Pick a starter each session, focus to earn XP/coins, care for it on breaks, and 
 - Feed/items system + inventory
 - Battle system with real HP tracking and rewards
 - Shop (buy items; unlock Pikachu/Eevee)
-- Strict Focus option (leaving tab fails session)
+- Strict Focus option (leaving tab fails session)... may change
 - LocalStorage persistence
-- Netlify-ready SPA routing (`netlify.toml`)
 
 ## Run locally
 ```bash
@@ -25,7 +24,7 @@ npm run build
 npm run preview
 ```
 
-## Deploy to Netlify
+## Deploy to Netlify (coming soon)
 - Build command: `npm run build`
 - Publish directory: `dist`
 - `netlify.toml` is included (SPA redirects)
